@@ -3,6 +3,10 @@
 
 EXP NO: 03
 
+NAME :Sathish kumar .M
+
+REF NO:24900774
+
 
 # Correlation and regression for data analysis
 # Aim : 
@@ -26,10 +30,6 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
-Developed No : Sathish Kumar .M
-
-
-Reference No : 24900774
 
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
